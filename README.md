@@ -6,7 +6,7 @@ I'm a **Computer Engineering student** at NOVA School of Science and Technology,
 
 ### 💡 About Me:
 - 🌟 Strong interest in **cyber security** and **software development**.
-- 🎨 Profound ove for **music** and **arts** in general.
+- 🎨 Profound love for **music** and **arts** in general.
 - 💼 Always excited to collaborate on new projects and learn from others.
 
 ### 🛠️ Languages & Tools:
