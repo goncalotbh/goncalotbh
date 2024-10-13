@@ -21,5 +21,15 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  oliveira2gd@gmail.com
+   - oliveira2gd@gmail.com
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="LinkedIn"/></a>
+   - [LinkedIn Profile](https://www.genome.gov/)
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+   - [Instagram Profile](https://www.instagram.com/goncalotbh)
 </p>
