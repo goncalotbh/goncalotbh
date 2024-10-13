@@ -25,11 +25,11 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="LinkedIn"/></a>
-   - [LinkedIn Profile](https://www.genome.gov/)
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+   - https://www.genome.gov/
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
-   - [Instagram Profile](https://www.instagram.com/goncalotbh)
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Gmail"/></a>
+   - https://www.instagram.com/goncalotbh
 </p>
